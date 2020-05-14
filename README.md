@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/badge/license-Apache-2-brightgreen)](https://github.com/EasyMillControl/EasyMillControl/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-Apache2-brightgreen)](https://github.com/EasyMillControl/EasyMillControl/blob/master/LICENSE)
 [![Languages](https://img.shields.io/badge/languages-Python3/C++-blue)](https://img.shields.io)
 
 # [EasyMillControl](https://github.com/EasyMillControl/EasyMillControl)
@@ -24,7 +24,7 @@ git clone https://github.com/EasyMillControl/EasyMillControl
 ```
 
 ## Links
-  * Main [project's page](http://www.easymillcontrol.com/ Main) (currently pointing to this github repo)
+  * Main [project's page](http://www.easymillcontrol.com/) (currently pointing to this github repo)
   * [Our Youtube channel](https://www.youtube.com/channel/UCZ0cAFyQO54Unen8guWqejg)
   * [Our Facebook page](https://www.facebook.com/Easymillcontrol-100501448344151/)
   
@@ -36,7 +36,7 @@ git clone https://github.com/EasyMillControl/EasyMillControl
   * [NNG](https://github.com/nanomsg/nng)  nanomsg-next-generation (MIT license)
   * [python bindings for NNG](https://github.com/codypiersall/pynng.git)  (MIT license)
   * [wxwidgets](https://github.com/wxWidgets)  (wxWindows Library Licence (a modified LGPL to allow proprietary software))
-  * [python bindings for wxwidgets] https://github.com/wxWidgets/Phoenix 
+  * [python bindings for wxwidgets](https://github.com/wxWidgets/Phoenix) 
   * [RNP](https://github.com/rnpgp/rnp)  openPGP library (combination of works under BSD 2-clause, BSD 3-clause and Apache 2 licenses)
   * [Bullet3](https://github.com/bulletphysics/bullet3) physics (zlib license)
   * [Pybind11](https://github.com/pybind/pybind11) expose C++ to python  (BSD 3-clause license)
